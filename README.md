@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋 I'm Sophie!
+
+I am currently a fourth-year Computer Science major @ Georgia Tech seeking a career in software engineering!
+
+## 📫 How to reach me:
+Email: sdimarcodev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sophiadimarco/)
 
 <!--
 **sophiadimarco/sophiadimarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
